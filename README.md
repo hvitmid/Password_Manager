@@ -14,3 +14,4 @@ sequenceDiagram
     deactivate БД
     Сервер-->>Клиент: Ответ (JSON/XML)
     deactivate Сервер
+    '''
