@@ -1,5 +1,5 @@
 # Технический долг
-'''mermaid
+```mermaid
 sequenceDiagram
     title Клиент-Серверная архитектура с взаимодействием с БД
     actor Клиент
@@ -15,4 +15,4 @@ sequenceDiagram
     Сервер-->>Клиент: Ответ (JSON/XML)
     deactivate Сервер
     
-'''
+```
